@@ -40,6 +40,9 @@
 [submodule "janus/vim/colors/darcula"]
 	path = janus/vim/colors/darcula
 	url = https://github.com/blueshirts/darcula
+[submodule "papercolor-theme"]
+	path = janus/vim/colors/papercolor-theme
+	url = git@github.com:fabiode/papercolor-theme.git
 
 # Langs
 [submodule "janus/vim/langs/rails"]
@@ -164,6 +167,21 @@
 [submodule "janus/vim/tools/zoomwin"]
 	path = janus/vim/tools/zoomwin
 	url = https://github.com/sh-dude/ZoomWin.git
-[submodule "papercolor-theme"]
-	path = papercolor-theme
-	url = git@github.com:NLKNguyen/papercolor-theme.git
+[submodule "janus/vim/tools/ale"]
+	path = janus/vim/tools/ale
+	url = https://github.com/dense-analysis/ale
+[submodule "janus/vim/tools/auto-pairs"]
+	path = janus/vim/tools/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "janus/vim/tools/tabular"]
+	path = janus/vim/tools/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "janus/vim/tools/vim-airline"]
+	path = janus/vim/tools/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "janus/vim/tools/vim-airline-themes"]
+	path = janus/vim/tools/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "janus/vim/tools/vim-ruby-minitest"]
+	path = janus/vim/tools/vim-ruby-minitest
+	url = https://github.com/sunaku/vim-ruby-minitest
