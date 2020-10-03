@@ -164,3 +164,6 @@
 [submodule "janus/vim/tools/zoomwin"]
 	path = janus/vim/tools/zoomwin
 	url = https://github.com/sh-dude/ZoomWin.git
+[submodule "papercolor-theme"]
+	path = papercolor-theme
+	url = git@github.com:NLKNguyen/papercolor-theme.git
